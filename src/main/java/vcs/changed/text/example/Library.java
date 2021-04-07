@@ -5,6 +5,14 @@ package vcs.changed.text.example;
 
 public class Library {
     public boolean someLibraryMethod() {
-        return true;
+      return true;
     }
+    /** javadoc content **/
+    public boolean anotherLibraryMethod() {
+    return true;
+    }
+//
+//    public boolean another(){
+//    return false;
+//    }
 }
